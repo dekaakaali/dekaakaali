@@ -9,3 +9,5 @@ My name is Ali. I’m a Front-end developer. Let’s keep it short. I have some 
 - Version control(e.g., git).
 
 
+ Contact: dekadevdeka@gmail.com
+
